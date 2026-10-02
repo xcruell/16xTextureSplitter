@@ -34,11 +34,11 @@ pip install Pillow
 
 ## Usage
 
-Place `texture_splitter.py` in the same folder as your PNG textures:
+Place `16xTextureSplitter.py` in the same folder as your PNG textures:
 
 ```text
 texture-splitter/
-├── texture_splitter.py
+├── 16xTextureSplitter.py
 ├── flower.png
 ├── plant.png
 ├── large_texture.png
@@ -48,7 +48,7 @@ texture-splitter/
 Run the script:
 
 ```bash
-python texture_splitter.py
+python 16xTextureSplitter.py
 ```
 (or double click it)
 
