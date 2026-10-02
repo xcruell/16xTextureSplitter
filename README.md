@@ -22,6 +22,10 @@ Useful when creating (Minecraft) textures that are larger than 16x16 and need to
 * Python 3
 * Pillow
 
+## Screenshot
+<img width="720" height="400" alt="grafik" src="https://github.com/user-attachments/assets/e624a382-fa36-469e-abc9-d164faadeeaf" />
+
+
 Install Pillow with:
 
 ```bash
